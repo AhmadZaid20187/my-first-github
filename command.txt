@@ -1,6 +1,7 @@
 echo "# my-first-github" >> README.md
 git init
 git add .
+#every time commit
 git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/AhmadZaid20187/my-first-github.git
